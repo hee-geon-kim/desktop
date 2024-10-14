@@ -1,8 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Feature 1
 =======
 Feature 2
 >>>>>>> feature2
 Feature 1
 Feature 2
+=======
+>>>>>>> feature3
 Feature 3
